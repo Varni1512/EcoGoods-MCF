@@ -128,3 +128,6 @@
 - Predictive sustainability
 - Global eco-network
 - Industry leadership
+
+![image](https://github.com/user-attachments/assets/2eea4d8d-fd75-4f19-ae53-555a9ca22fb2)
+
