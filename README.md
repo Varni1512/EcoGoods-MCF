@@ -129,5 +129,34 @@
 - Global eco-network
 - Industry leadership
 
-![image](https://github.com/user-attachments/assets/2eea4d8d-fd75-4f19-ae53-555a9ca22fb2)
+### Dashboard
+
+![Screenshot 2024-11-13 141426](https://github.com/user-attachments/assets/92745572-59d6-4729-9887-e9369895d10f)
+
+### Inventory Management
+
+![image](https://github.com/user-attachments/assets/581faf9f-4303-4488-b1c6-d482e1a00c51)
+
+### Orders
+
+![image](https://github.com/user-attachments/assets/2b5747d6-f26f-4164-9344-c13ce8f95659)
+
+### Analytics
+
+![image](https://github.com/user-attachments/assets/6048656a-2bb3-49f1-b87a-3462ea9a9453)
+
+### Settings
+
+![image](https://github.com/user-attachments/assets/d4accbd5-dce3-4ca5-a53a-f3854d4f3421)
+
+
+### Website Link : 
+- https://resonant-capybara-838909.netlify.app/
+
+
+
+
+  
+
+
 
