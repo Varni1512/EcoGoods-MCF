@@ -1,5 +1,6 @@
 ### Theme Details
 **Name:** EcoGoods MCF - Sustainable Commerce Platform
+
 **Tagline:** Revolutionizing E-commerce Through Sustainable Fulfillment
 
 **Core Benefits:**
